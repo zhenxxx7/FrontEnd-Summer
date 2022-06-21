@@ -56,20 +56,3 @@
     const res = await axios.get('https://jsonplaceholder.typicode.com/users');
     console.log(res.data);
 })();
-
-//how to download axios
-// https://www.npmjs.com/package/axios
-// https://www.npmjs.com/package/axios-mock-adapter
-// https://www.npmjs.com/package/axios-mock-adapter-jest
-// https://www.npmjs.com/package/axios-mock-adapter-node
-// https://www.npmjs.com/package/axios-mock-adapter-react-native
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server-mock
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server-mock-server
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server-mock-server-mock
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server-mock-server-mock-server
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server-mock-server-mock-server-mock
-// https://www.npmjs.com/package/axios-mock-adapter-react-native-web-server-node-server-mock-server-mock-server-mock-server
