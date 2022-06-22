@@ -50,3 +50,5 @@ class Pelajar extends Orang1 {
 }
 let user = new Pelajar('John', 17, 'Unklab');
 console.log(user.belajar());
+
+//
